@@ -9,4 +9,21 @@ Analysing how placement depends on certain factors like CGPA , number of interns
 | Arjun Solanki | 2026EEB1325 |  Execution lead |
 | Rishabh Rajput | 2026DAB1305 | PPT lead |
 | Shreyansh | 2026AIB1080 | Video lead |
+## Project Structure
+```text
+student_placement_analyser/
+├── .gitattributes
+├── .gitignore
+├── data_checking_and_comparisons.ipynb
+├── Model_Evaluator.ipynb
+├── placement_model.ipynb
+├── placements.csv
+├── placement_model.joblib
+├── placement_predictions.csv
+├── requirements_member1.txt
+├── requirements_member3.txt
+└── README.md
+```
+
+    
 

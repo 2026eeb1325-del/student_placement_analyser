@@ -1,8 +1,3 @@
-"""Member 2 - Stream and backlog analysis.
-Run from the repo folder:  python stream_and_backlogs.py
-Needs: pandas, matplotlib  (placements.csv in same folder)
-Outputs: stream_summary.csv, backlog_summary.csv, stream_placement.png, backlog_placement.png
-"""
 import pandas as pd
 import matplotlib
 matplotlib.use("Agg")

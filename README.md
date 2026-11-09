@@ -43,4 +43,8 @@ Required Libraries: Listed in requirements.txt
    - `Model Evaluator.ipynb`
 4. Select the appropriate Python kernel (Python 3.14.6) in VS Code if prompted.
 5. Open each notebook and click **Run All** to execute all its cells.
-
+## Expected Output
+- **Data Checking and Comparisons:** Displays missing-value and duplicate checks, overall placement percentage, and comparisons of placement percentages across CGPA values and internship counts using tables and graphs.
+- **Stream and Backlogs Analysis:** Displays placement comparisons across different engineering streams and backlog categories using summary tables and graphs.
+- **Placement Prediction Model:** Trains a Logistic Regression model using student-related factors and generates placement predictions.
+- **Model Evaluation:** Displays the model's performance through accuracy, confusion matrix, classification report, and visualisations.

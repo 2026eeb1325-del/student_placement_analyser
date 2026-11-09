@@ -14,16 +14,33 @@ Analysing how placement depends on certain factors like CGPA , number of interns
 student_placement_analyser/
 ├── .gitattributes
 ├── .gitignore
+├── backlog_placement.png
+├── backlog_summary.csv
 ├── data_checking_and_comparisons.ipynb
-├── Model_Evaluator.ipynb
+├── Model Evaluator.ipynb
 ├── placement_model.ipynb
-├── placements.csv
 ├── placement_model.joblib
 ├── placement_predictions.csv
+├── placements.csv
+├── README.md
 ├── requirements_member1.txt
+├── requirements_member2.txt
 ├── requirements_member3.txt
-└── README.md
+├── stream_and_backlogs.ipynb
+├── stream_placement.png
+└── stream_summary.csv
 ```
-
-    
+## Setup Instructions
+Python version: 3.14.6
+Required Libraries: Listed in requirements.txt
+## Steps to Run
+1. Clone or download the project repository from GitHub.
+2. Open the project folder in Visual Studio Code (VS Code).
+3. Open the notebooks in the following order:
+   - `data_checking_and_comparisons.ipynb`
+   - `stream_and_backlogs.ipynb`
+   - `placement_model.ipynb`
+   - `Model Evaluator.ipynb`
+4. Select the appropriate Python kernel (Python 3.14.6) in VS Code if prompted.
+5. Open each notebook and click **Run All** to execute all its cells.
 

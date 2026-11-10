@@ -48,24 +48,42 @@ Analysing how placement depends on certain factors like CGPA , number of interns
 ## Project Structure
 ```text
 student_placement_analyser/
+│
 ├── .gitattributes
 ├── .gitignore
-├── backlog_placement.png
-├── backlog_summary.csv
+├── README.md
+├── requirements.txt
+│
+├── placements.csv
+│
 ├── data_checking_and_comparisons.ipynb
-├── Model Evaluator.ipynb
+├── stream_and_backlogs.ipynb
 ├── placement_model.ipynb
+├── Model Evaluator.ipynb
+│
 ├── placement_model.joblib
 ├── placement_predictions.csv
-├── placements.csv
-├── README.md
-├── requirements_member1.txt
-├── requirements_member2.txt
-├── requirements_member3.txt
-├── stream_and_backlogs.ipynb
+│
+├── stream_summary.csv
+├── backlog_summary.csv
+│
 ├── stream_placement.png
-└── stream_summary.csv
+└── backlog_placement.png
 ```
+
+### File Descriptions
+
+- **placements.csv:** Dataset used for placement analysis.
+- **data_checking_and_comparisons.ipynb:** Data checking and CGPA/internship analysis.
+- **stream_and_backlogs.ipynb:** Placement analysis across engineering streams and backlog history.
+- **placement_model.ipynb:** Logistic Regression model for placement prediction.
+- **Model Evaluator.ipynb:** Evaluation of model predictions.
+- **placement_model.joblib:** Saved trained model.
+- **placement_predictions.csv:** Actual and predicted placement results.
+- **stream_summary.csv / backlog_summary.csv:** Summary tables.
+- **stream_placement.png / backlog_placement.png:** Placement analysis graphs.
+- **requirements.txt:** Required Python libraries and versions.
+
 ## Setup  prerequisites
 - **Python Version:** 3.14.6
 - **Required Libraries:** All required libraries and their versions are listed in `requirements.txt`.

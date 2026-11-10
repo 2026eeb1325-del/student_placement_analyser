@@ -86,3 +86,8 @@ student_placement_analyser/
 - **Stream and Backlogs Analysis:** Displays placement comparisons across different engineering streams and backlog categories using summary tables and graphs.
 - **Placement Prediction Model:** Trains a Logistic Regression model using student-related factors and generates placement predictions.
 - **Model Evaluation:** Displays the model's performance through accuracy, confusion matrix, classification report, and visualisations.
+## AI Use Disclosure
+- **Member 1:** ChatGPT was used in organising readme structure ,  code and debugging
+- **Member 2:** Claude was used to assist with drafting presentation slides and resolving minor coding errors. All results were checked and verified.
+- **Member 3:** ChatGPT was used for coding assistance, explanations and debugging.
+- **Member 4:** AI assistance was limited to understanding coding syntax.

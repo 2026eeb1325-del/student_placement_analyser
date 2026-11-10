@@ -10,8 +10,8 @@ Analysing how placement depends on certain factors like CGPA , number of interns
 | Member | Entry No. | Role |
 |---|---|---|
 | Tashvi Garg | 2026MCB1577 |  Documentation lead |
-| Arjun Solanki | 2026EEB1325 |  Execution lead |
 | Rishabh Rajput | 2026DAB1305 | PPT lead |
+| Arjun Solanki | 2026EEB1325 |  Execution lead |
 | Shreyansh | 2026AIB1080 | Video lead |
 ## Team Contributions
 

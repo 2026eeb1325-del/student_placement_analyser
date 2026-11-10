@@ -31,8 +31,14 @@ student_placement_analyser/
 └── stream_summary.csv
 ```
 ## Setup Instructions
-Python version: 3.14.6
-Required Libraries: Listed in requirements.txt
+- **Python Version:** 3.14.6
+- **Required Libraries:** All required libraries and their versions are listed in `requirements.txt`.
+
+To install the required dependencies, run the following command in the project directory:
+
+```bash
+python -m pip install -r requirements.txt
+```
 ## Steps to Run
 1. Clone or download the project repository from GitHub.
 2. Open the project folder in Visual Studio Code (VS Code).

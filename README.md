@@ -32,7 +32,7 @@ Analysing how placement depends on certain factors like CGPA , number of interns
 - Repeated both comparisons using unique rows only, since 1,829 out of 2,966 records were repeated. The overall patterns remained unchanged.
 - Created summary tables (`stream_summary.csv`, `backlog_summary.csv`) and bar graphs (`stream_placement.png`, `backlog_placement.png`).
 - Documented the analysis in `stream_and_backlogs.ipynb`.
-- Prepared the five-slide project presentation as the PPT lead.
+- Prepared the five-slide project presentation as the PPT lead: [Placement_Analysis_5_Slides_1.pptx](https://github.com/2026eeb1325-del/student_placement_analyser/blob/main/Placement_Analysis_5_Slides_1.pptx)
 
 ### Member 3 — Placement Prediction Model
 - Used seven student attributes: age, gender, engineering stream, internships, CGPA, hostel status and backlog history to predict placement.
@@ -108,6 +108,10 @@ student_placement_analyser/
 - **Stream and Backlogs Analysis:** Displays placement comparisons across different engineering streams and backlog categories using summary tables and graphs.
 - **Placement Prediction Model:** Trains a Logistic Regression model using student-related factors and generates placement predictions.
 - **Model Evaluation:** Displays the model's performance through accuracy, confusion matrix, classification report, and visualisations.
+- ## Presentation
+
+- **PPT (5 slides):** [Placement_Analysis_5_Slides_1.pptx](https://github.com/2026eeb1325-del/student_placement_analyser/blob/main/Placement_Analysis_5_Slides_1.pptx)
+- Prepared by Rishabh Rajput (PPT lead).
 ## AI Use Disclosure
 - **Member 1:** ChatGPT was used in organising readme structure ,  code and debugging
 - **Member 2:** Claude was used to assist with drafting presentation slides and resolving minor coding errors. All results were checked and verified.

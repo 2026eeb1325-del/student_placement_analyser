@@ -48,6 +48,8 @@ Analysing how placement depends on certain factors like CGPA , number of interns
 - Calculated accuracy, precision, recall and F1-score using Scikit-learn.
 - Compared the model's evaluation metrics with a baseline based on the most frequent actual placement value.
 - Generated a confusion matrix showing True Positives (TP), False Positives (FP), True Negatives (TN) and False Negatives (FN).
+- Co-ordinated the Team Video Creation, and showed a demo of using the model
+- Video link : https://drive.google.com/file/d/1C-U73DrX1X7gdJwrT8kXMrpTsYMvBqsP/view?usp=drivesdk
   
 ## Project Structure
 ```text

@@ -72,7 +72,9 @@ student_placement_analyser/
 ├── backlog_summary.csv
 │
 ├── stream_placement.png
-└── backlog_placement.png
+├── backlog_placement.png
+│
+└──Placement_Analysis_5_Slides_2.pptx
 ```
 
 ### File Descriptions
